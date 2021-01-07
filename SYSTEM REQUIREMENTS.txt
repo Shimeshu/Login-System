@@ -1,0 +1,22 @@
+SYSTEM REQUIREMENTS OF THE PROJECT
+
+In order to run this project, you must have python 3.5 or above installed. For windows users,
+if they don't have python installed on the machine, install it using the instructions given below.
+
+Python is pre-installed in Linux Distributions and Macintosh Systems. Check if python 3.5 or above is
+installed or not. If not, then install it using the below command:
+
+Ubuntu/Debian:
+sudo apt-get install python3
+
+Macintosh:
+brew install python3
+
+Windows:
+Go to https://www.python.org/downloads/
+
+	OR
+
+If using Chocolatey, installing it using the below command:
+
+choco install python3
